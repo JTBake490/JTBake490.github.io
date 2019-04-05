@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               J.T. Baker Jr.
-tagline:             What's in my head throughout bootcamp.
+tagline:             James at Metis
 url:                 http://JTBake490.github.io
 paginate:            2
 baseurl:             ""
@@ -17,7 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
+  name:              James Baker Jr.
   url:               
   email:             jrbake490@gmail.com
 
